@@ -1,4 +1,4 @@
-[![](/img/test.png "我的知乎，欢迎关注")][zhihu]
+![](https://github.com/wee2022/wee2022/raw/main/img/test.jpg)
 
 
 `linux` `网络编程` `socket` `epoll`
